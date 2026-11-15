@@ -1,0 +1,12 @@
+.git
+__pycache__/
+*.pyc
+.venv/
+venv/
+logs/
+bot_data/
+bot_settings/
+modules/
+*.zip
+*.rar
+.env

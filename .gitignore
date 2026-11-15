@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+logs/
+bot_data/
+bot_settings/
+.temp/
+modules/
+
+# Личные ключи, настройки и окружения (не публиковать)
+.env.*
+!.env.example
+*.log
+*.sqlite
+*.sqlite3
+*.db
+*.bak
+.idea/
+.vscode/
+.pytest_cache/
+.coverage
